@@ -5,6 +5,10 @@ To get started with
 
 Install Dependencies using **npm install**
 
+Install Facebook Dependencies **yarn add react-native-fbsdk** or **npm install --save react-native-fbsdk**
+
+Install Ios **$ cd ios/ && pod install**
+
 For Running in Android **npx react-native run-android**
 
 For Running in Ios **npx react-native run-ios**
